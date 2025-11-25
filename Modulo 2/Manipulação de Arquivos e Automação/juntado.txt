@@ -1,0 +1,6 @@
+Estou criando esse arquivo de texto em python
+
+banana
+maçã
+leite
+pão
